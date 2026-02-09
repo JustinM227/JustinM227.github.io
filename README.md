@@ -1,9 +1,9 @@
 
-# **Code Review**
+# Code Review
 https://youtu.be/ETkQ3qPAW18
 
 
-# Artifact 1 
+# Artifact 1
 
 This artifact is a project from CS-320 Module 3 that I made in January 2025. This project is a very basic contact manager system written in Java. It allows the user to add, save, update, and remove contacts.  
 
