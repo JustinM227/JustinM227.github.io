@@ -1,9 +1,9 @@
-# JustinM227.github.io
 
+#Code Review
 https://youtu.be/ETkQ3qPAW18
 
 
-Artifact 1 
+#Artifact 1 
 
 This artifact is a project from CS-320 Module 3 that I made in January 2025. This project is a very basic contact manager system written in Java. It allows the user to add, save, update, and remove contacts.  
 
@@ -15,7 +15,7 @@ While working on the enhancements, I learned how to implement a login-authentica
 
 
 
-Artifact 2 
+#Artifact 2 
 
 This artifact is the same one I used for enhancement 1. It was originally created a year ago in CS-320 Module 3. It is a basic contact management application written in Java, 
 
@@ -25,7 +25,7 @@ While enhancing this artifact, I learned how to utilize FilteredLists and Sorted
 
 
 
-Artifact 3
+#Artifact 3
 
 This artifact is the same one I used for enhancement 1 and enhancement 2. This project is from CS-320 Module 3, and I made it in January 2025. This project is a very basic contact manager system written in Java. It allows the user to add, save, update, and remove contacts.   
 
